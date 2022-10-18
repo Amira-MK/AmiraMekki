@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/AmiraMekki/static/css/main.050e90c5.css",
+    "main.js": "/AmiraMekki/static/js/main.2e00d23c.js",
+    "static/js/496.a1f3fbe5.chunk.js": "/AmiraMekki/static/js/496.a1f3fbe5.chunk.js",
+    "static/media/aaa.png": "/AmiraMekki/static/media/aaa.ed91767929a3504b66c7.png",
+    "static/media/aa.png": "/AmiraMekki/static/media/aa.3798f8ea935ec57111fe.png",
+    "static/media/food.png": "/AmiraMekki/static/media/food.d29f129f19cbc8123456.png",
+    "static/media/quiz.png": "/AmiraMekki/static/media/quiz.683d63220ba71c6ab1b1.png",
+    "static/media/weather.png": "/AmiraMekki/static/media/weather.fac6f2f321a2bf004541.png",
+    "static/media/airnbn.png": "/AmiraMekki/static/media/airnbn.37a4905c954d992a4ce1.png",
+    "static/media/two.png": "/AmiraMekki/static/media/two.4b50fbbf0aff87e24926.png",
+    "static/media/plancon.png": "/AmiraMekki/static/media/plancon.843c79e4b32bac723cc3.png",
+    "static/media/todo.png": "/AmiraMekki/static/media/todo.ac9e7416ca99bd6d8f1f.png",
+    "static/media/spacy.png": "/AmiraMekki/static/media/spacy.a8d8b1a7c93650f9fec1.png",
+    "static/media/plant.png": "/AmiraMekki/static/media/plant.42c5fd775ec3609eba4f.png",
+    "static/media/tenzies.png": "/AmiraMekki/static/media/tenzies.d9de92c45cb3a4c8ec95.png",
+    "static/media/shoppy.png": "/AmiraMekki/static/media/shoppy.3c0023a97b661a75d173.png",
+    "static/media/calc.png": "/AmiraMekki/static/media/calc.bce7ecda6a74ec6db568.png",
+    "index.html": "/AmiraMekki/index.html",
+    "main.050e90c5.css.map": "/AmiraMekki/static/css/main.050e90c5.css.map",
+    "main.2e00d23c.js.map": "/AmiraMekki/static/js/main.2e00d23c.js.map",
+    "496.a1f3fbe5.chunk.js.map": "/AmiraMekki/static/js/496.a1f3fbe5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.050e90c5.css",
+    "static/js/main.2e00d23c.js"
+  ]
+}
