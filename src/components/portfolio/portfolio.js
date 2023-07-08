@@ -10,7 +10,7 @@ import img8 from "./image/food.png";
 import img9 from "./image/tenzies.png";
 import img10 from "./image/two.png";
 import img11 from "./image/todo.png";
-import img12 from "./image/weather.png";
+import img12 from "./image/Erecrutement.png";
 import "./portfolio.css";
 
 
@@ -198,9 +198,9 @@ function Portfolio() {
                 </div>
 
                 <div className="portfoplio__content">
-                    <h3 className="portfolio__title" >Weather app</h3>
+                    <h3 className="portfolio__title" >Staffer</h3>
                     <img src={img12} alt="" className="portfolio__img" />
-                    <p className="portfolio__description">A weather web site using <b>React js</b></p>
+                    <p className="portfolio__description">web platform and app for recruitment, similar to platforms like Indeed and Upwork, have been developed using microservices architecture with <b>React js, Spring boot, Node js, PostgreSQL, Flutter </b></p>
                     <div className="portfolio__links">
                         <a href="#" className="button button-flex button--small button--link">
                             <i className="bx bx-link-alt button__icon"></i>
